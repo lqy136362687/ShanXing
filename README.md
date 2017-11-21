@@ -36,7 +36,7 @@
 ![image](https://raw.githubusercontent.com/lqy136362687/ShanXing/master/markdownImg/like.jpg)
 
 ## 扩展
-###膳行目前针对电子科大录入数据，但是其还可以推广到其他学校。随着健身人群越来越多，膳行的潜在用户也会越来越多
+### 膳行目前针对电子科大录入数据，但是其还可以推广到其他学校。随着健身人群越来越多，膳行的潜在用户也会越来越多
 
 # 具体操作视频请看ShanXing.mp4
 
